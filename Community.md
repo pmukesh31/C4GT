@@ -924,6 +924,6 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>Chaitanya Bharathi Institute of Technology</td>
+    <td>Chaitanya Bharathi Institute of Technology,Hyderabad</td>
   </tr>
 </table>
