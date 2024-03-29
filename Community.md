@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Mukesh Patel</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/pmukesh31</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/mukesh-patel31</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Chaitanya Bharathi Institute of Technology</td>
+  </tr>
+</table>
